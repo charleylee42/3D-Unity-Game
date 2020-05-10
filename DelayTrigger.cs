@@ -19,7 +19,7 @@ public class DelayTrigger : MonoBehaviour {
 
 	}
 
-	// when isTriiger of the collider is off
+	// when isTrigger of the collider is off
 	//	void OnCollisionEnter(Collision coll)
 	//	{
 	//		Debug.Log ("FadeOutTrigger::OnCollisionEnter(): hello1");
