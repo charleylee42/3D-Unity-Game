@@ -12,7 +12,6 @@ public class BalloonController : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-
 	}
 
 	void OnCollisionEnter(Collision coll){
